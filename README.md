@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img height="220" src="//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F81%2F17%2F8b%2F81178b47a8598f0c81c4799f2cdd4057.gif&f=1&nofb=1&ipt=fcaf2283c767fb993a176794db9205380c68d0f833ad65052b3bcc76c6b6f2bb"  />
+  <img height="200" src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif"  />
 </div>
 
 ###
